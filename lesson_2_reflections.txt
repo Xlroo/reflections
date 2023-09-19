@@ -7,3 +7,7 @@ How is the staging area different from the working directory and the repository?
 Staging area cannot be manipulated 
 its temporary holding for files
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+When making updates or changes that can break the existing code base 
+
